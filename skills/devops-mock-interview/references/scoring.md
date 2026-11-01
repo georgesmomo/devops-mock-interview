@@ -20,6 +20,9 @@ scenario and the design question are scored as their own lines.
 2. Adjust it by at most ±0.5 for things that cut across domains (below).
 3. Round **down** to one decimal (6.48 → 6.4). Never round up.
 
+Interview stopped early ("stop"): score only the lines you have evidence for, mark the
+others "not assessed", and spread their weight over the assessed lines. Say so in the report.
+
 Adjustments:
 - − technical errors stated with confidence, guessing instead of saying "I don't know",
   rambling, blaming others;
