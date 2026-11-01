@@ -149,22 +149,10 @@ skills/devops-mock-interview/
 
 Ideas and new scenarios are welcome: open an issue or a pull request.
 
-## 🇫🇷 En français
+## Related
 
-Un entretien DevOps / SRE / platform engineer simulé et réaliste, avec Claude Code, Codex,
-Cursor, Gemini CLI ou Copilot. L'agent étudie l'offre et votre stack, joue un Staff SRE,
-vous relance quand vous êtes flou, vous fait vivre un **incident de production en direct**
-(vous tapez vos commandes, il répond), puis vous rend un rapport sans langue de bois : note
-sur 10, verdict, corrections techniques, vos deux pires réponses réécrites et trois priorités.
-
-```bash
-npx skills add georgesmomo/devops-mock-interview
-```
-
-Puis écrivez simplement : « Fais-moi passer un entretien SRE senior, stack AWS, EKS, Terraform. »
-L'entretien se déroule en français, les commandes restent en anglais.
-
-Pour les autres métiers, voir [**mock-interview**](https://github.com/georgesmomo/mock-interview).
+Preparing for a non-DevOps role? Use [**mock-interview**](https://github.com/georgesmomo/mock-interview),
+the same realistic interview for any job title.
 
 ## License
 
