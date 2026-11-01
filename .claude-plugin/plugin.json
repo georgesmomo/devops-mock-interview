@@ -1,0 +1,10 @@
+{
+  "name": "devops-mock-interview",
+  "version": "1.0.0",
+  "description": "Realistic DevOps / SRE / platform mock interview with live incident scenarios, system design and a blunt scored report.",
+  "author": { "name": "Georges MOMO", "url": "https://github.com/georgesmomo" },
+  "homepage": "https://github.com/georgesmomo/devops-mock-interview",
+  "repository": "https://github.com/georgesmomo/devops-mock-interview",
+  "license": "MIT",
+  "keywords": ["devops", "sre", "mock-interview", "devops-interview", "kubernetes", "terraform", "interview-preparation", "agent-skills"]
+}
