@@ -156,6 +156,7 @@ the same realistic interview for any job title.
 
 Want to explain your architecture in a video? [**tech-to-motion**](https://github.com/georgesmomo/tech-to-motion)
 turns a docker-compose, Terraform or k8s manifest into a motion-design explainer.
+For any other topic, [**idea-to-motion**](https://github.com/georgesmomo/idea-to-motion) turns one line into a video.
 
 ## License
 
